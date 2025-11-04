@@ -40,5 +40,7 @@ nf.format(...) → mengubah angka menjadi format rupiah.
 volume > VOLUME_THRESHOLD ? nf.format(50000) : nf.format(0) → menampilkan biaya volume hanya jika melebihi ambang batas.
 input.close();
 Scanner ditutup untuk membebaskan resource yang digunakan.
+https://1drv.ms/i/c/526cf03972b8029e/EdScy46YYrNMuCTGYbOshPQBFSDETQ934Jw4IkjIDE0izQ?e=VMBbn9
+
 
 
